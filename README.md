@@ -18,3 +18,4 @@ This Python script performs neural style transfer using PyTorch and a pre-traine
 
 Output:
 
+![Image](https://github.com/user-attachments/assets/2e78952c-8627-4a26-999e-b2708773a31c)
